@@ -44,7 +44,6 @@
 	</dependencies>
 	<modules>
 		<module>../dispenduk-data</module>
-
 		<module>../dispenduk-domain</module>
 		<module>dispenduk-services</module>
 	</modules>
